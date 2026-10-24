@@ -1,6 +1,6 @@
 # Awesome-Stock-Media-Marketplace
 
-# Top Stock Media Marketplace Ecosystem
+## Top Stock Media Marketplace Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Digital Asset Management, Royalty-Free Libraries & Decentralized Media Sharing*  
