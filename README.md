@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Stock-Media-Marketplace/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Stock-Media-Marketplace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Stock-Media-Marketplace?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Stock-Media-Marketplace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Stock-Media-Marketplace?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -58,104 +58,104 @@ The following table compares leading hosted stock media marketplaces and enterpr
 
 ## 💻 Open-Source GitHub Projects
 
-Explore top-tier open-source self-hosted Digital Asset Management (DAM) platforms, photo catalog engines, media repositories, and stock dataset projects. **Sorted in descending order by GitHub star count**.
+Explore top-tier open-source self-hosted Digital Asset Management (DAM) platforms, photo catalog engines, media repositories, and stock dataset projects. **Sorted in descending order by GitHub Stars_Count**.
 
-### 1. [Immich](https://github.com/immich-app/immich) [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)
+### 1. [Immich](https://github.com/immich-app/immich) [![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)
 - **Primary Stack**: TypeScript, Dart (Flutter), Python, PostgreSQL, Redis
 - **Highlights**: High-performance, self-hosted photo and video management solution designed as a direct self-hosted replacement for Google Photos and cloud media hubs. Offers facial recognition, object detection, reverse geocoding, multi-user support with partner sharing, automatic background mobile uploads, and hardware-accelerated video transcoding.
 - **Best For**: Creators, photographers, and teams needing a robust self-hosted media backup and viewing infrastructure.
 
-### 2. [PhotoPrism](https://github.com/photoprism/photoprism) [![GitHub stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)
+### 2. [PhotoPrism](https://github.com/photoprism/photoprism) [![GitHub_Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)
 - **Primary Stack**: Go, Vue.js, TensorFlow, SQLite / MariaDB
 - **Highlights**: AI-powered photo management app for the decentralized web. Features automated image classification based on Google TensorFlow, face cluster recognition, semantic search by colors, dates, and locations, sidecar metadata sync, and RAW camera file conversion via darktable and RawTherapee.
 - **Best For**: Advanced photographers and digital archivists looking for automated AI categorization without vendor cloud lock-in.
 
-### 3. [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) [![GitHub stars](https://img.shields.io/github/stars/neutraltone/awesome-stock-resources?style=social&color=white)](https://github.com/neutraltone/awesome-stock-resources/stargazers)
+### 3. [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) [![GitHub_Stars](https://img.shields.io/github/stars/neutraltone/awesome-stock-resources?style=social&color=white)](https://github.com/neutraltone/awesome-stock-resources/stargazers)
 - **Primary Stack**: Markdown / Curated Community Directory
 - **Highlights**: Extensive, crowd-sourced compendium of free stock photography, royalty-free footage, vector icons, audio samples, and typography libraries across the open web.
 - **Best For**: UI/UX designers, video editors, and indie makers seeking verified free media repositories.
 
-### 4. [UnoPim DAM](https://github.com/unopim/unopim) [![GitHub stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)
+### 4. [UnoPim DAM](https://github.com/unopim/unopim) [![GitHub_Stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)
 - **Primary Stack**: PHP (Laravel), Vue.js, MySQL
 - **Highlights**: Open-source Product Information Management (PIM) and Digital Asset Management (DAM) system engineered to manage and enrich millions of digital assets and catalog items. Includes folder trees, batch metadata tagging, expiring shared links, embedded image editing, and Magic AI auto-tagging.
 - **Best For**: E-commerce companies, brands, and agencies that require unified product data and asset management.
 
-### 5. [LibrePhotos](https://github.com/LibrePhotos/librephotos) [![GitHub stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)
+### 5. [LibrePhotos](https://github.com/LibrePhotos/librephotos) [![GitHub_Stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)
 - **Primary Stack**: Python (Django), TypeScript (React), PostgreSQL
 - **Highlights**: Self-hosted, privacy-first photo management service. Provides automated face recognition using deep learning, semantic search ("photos of dogs on a beach"), GPS map views, support for video and RAW formats, and multi-user privacy partitions.
 - **Best For**: Privacy enthusiasts wanting full ownership of their photo libraries with intelligent search.
 
-### 6. [Piwigo](https://github.com/Piwigo/Piwigo) [![GitHub stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)
+### 6. [Piwigo](https://github.com/Piwigo/Piwigo) [![GitHub_Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)
 - **Primary Stack**: PHP, MySQL
 - **Highlights**: Established web gallery and asset manager with more than 200 extensions and themes. Supports extensive user permissions, hierarchical albums, batch manager, EXIF/IPTC metadata indexing, and high-volume media collections.
 - **Best For**: Heritage institutions, schools, clubs, and photo studios needing an extensible web gallery.
 
-### 7. [Unsplash Datasets](https://github.com/unsplash/datasets) [![GitHub stars](https://img.shields.io/github/stars/unsplash/datasets?style=social&color=white)](https://github.com/unsplash/datasets/stargazers)
+### 7. [Unsplash Datasets](https://github.com/unsplash/datasets) [![GitHub_Stars](https://img.shields.io/github/stars/unsplash/datasets?style=social&color=white)](https://github.com/unsplash/datasets/stargazers)
 - **Primary Stack**: TSV, Parquet, Python
 - **Highlights**: Public dataset of over 7.4 million high-quality stock images made available by Unsplash for research, machine learning benchmark evaluation, computer vision, and multimodal AI training.
 - **Best For**: AI researchers, data scientists, and ML engineers building visual discovery and classification models.
 
-### 8. [Chevereto-Free](https://github.com/rodber/chevereto-free) [![GitHub stars](https://img.shields.io/github/stars/rodber/chevereto-free?style=social&color=white)](https://github.com/rodber/chevereto-free/stargazers)
+### 8. [Chevereto-Free](https://github.com/rodber/chevereto-free) [![GitHub_Stars](https://img.shields.io/github/stars/rodber/chevereto-free?style=social&color=white)](https://github.com/rodber/chevereto-free/stargazers)
 - **Primary Stack**: PHP, JavaScript, MariaDB
 - **Highlights**: Self-hosted image hosting software enabling users and communities to operate their own alternative to Imgur or Flickr. Offers drag-and-drop upload, album sharing, user accounts, and direct image embed codes for forums and blogs.
 - **Best For**: Community platforms, forums, and creators desiring a self-managed public or private image hosting portal.
 
-### 9. [Afilmory](https://github.com/Afilmory/afilmory) [![GitHub stars](https://img.shields.io/github/stars/Afilmory/afilmory?style=social&color=white)](https://github.com/Afilmory/afilmory/stargazers)
+### 9. [Afilmory](https://github.com/Afilmory/afilmory) [![GitHub_Stars](https://img.shields.io/github/stars/Afilmory/afilmory?style=social&color=white)](https://github.com/Afilmory/afilmory/stargazers)
 - **Primary Stack**: TypeScript, React, Next.js, WebGL
 - **Highlights**: Modern, aesthetic photo gallery tailored specifically for professional photographers. Features S3 and GitHub synchronization, comprehensive EXIF camera extraction, interactive geographic maps, and hardware-accelerated WebGL viewing.
 - **Best For**: Photographers wanting a minimalist, portfolio-grade showcase with automated object storage sync.
 
-### 10. [Pigallery2](https://github.com/bpatrik/pigallery2) [![GitHub stars](https://img.shields.io/github/stars/bpatrik/pigallery2?style=social&color=white)](https://github.com/bpatrik/pigallery2/stargazers)
+### 10. [Pigallery2](https://github.com/bpatrik/pigallery2) [![GitHub_Stars](https://img.shields.io/github/stars/bpatrik/pigallery2?style=social&color=white)](https://github.com/bpatrik/pigallery2/stargazers)
 - **Primary Stack**: TypeScript, Node.js, Angular, SQLite
 - **Highlights**: Lightweight directory-first photo gallery web application optimized for low-resource environments such as Raspberry Pi servers. Reads existing directory structures on disk without altering folders, providing on-the-fly thumbnail generation.
 - **Best For**: Homelab users and Raspberry Pi owners desiring zero-reorganization photo browsing.
 
-### 11. [Damselfly](https://github.com/Webreaper/Damselfly) [![GitHub stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)
+### 11. [Damselfly](https://github.com/Webreaper/Damselfly) [![GitHub_Stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)
 - **Primary Stack**: C# (.NET), Blazor, SQLite
 - **Highlights**: Server-hosted photograph management system built to index hundreds of thousands of images. Features AI face detection, IPTC keyword metadata writing directly into files, full-text EXIF search, and lightweight Docker container deployment.
 - **Best For**: Families and freelance photographers wanting fast facial recognition on home NAS or server setups.
 
-### 12. [Serpent](https://github.com/dolag233/Serpent) [![GitHub stars](https://img.shields.io/github/stars/dolag233/Serpent?style=social&color=white)](https://github.com/dolag233/Serpent/stargazers)
+### 12. [Serpent](https://github.com/dolag233/Serpent) [![GitHub_Stars](https://img.shields.io/github/stars/dolag233/Serpent?style=social&color=white)](https://github.com/dolag233/Serpent/stargazers)
 - **Primary Stack**: TypeScript, Electron, Vue.js
 - **Highlights**: Cross-platform desktop digital asset management software tailored for game developers, VFX artists, and 3D animators. Manages textures, 3D meshes, audio clips, and reference imagery with visual tags and rapid preview pipelines.
 - **Best For**: Game designers, CGI artists, and motion graphics animators managing heavy multimedia assets.
 
-### 13. [Phraseanet](https://github.com/alchemy-fr/Phraseanet) [![GitHub stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)
+### 13. [Phraseanet](https://github.com/alchemy-fr/Phraseanet) [![GitHub_Stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)
 - **Primary Stack**: PHP, Docker, Elasticsearch, MariaDB
 - **Highlights**: Enterprise-grade open-source DAM system by Alchemy. Features modular microservices (Databox for DAM, Expose for static asset export, Uploader for ingestion), advanced faceted Elasticsearch querying, and support for high-throughput publishing.
 - **Best For**: Media enterprises, government agencies, and universities handling millions of production assets.
 
-### 14. [FreeFrame](https://github.com/Techiebutler/freeframe) [![GitHub stars](https://img.shields.io/github/stars/Techiebutler/freeframe?style=social&color=white)](https://github.com/Techiebutler/freeframe/stargazers)
+### 14. [FreeFrame](https://github.com/Techiebutler/freeframe) [![GitHub_Stars](https://img.shields.io/github/stars/Techiebutler/freeframe?style=social&color=white)](https://github.com/Techiebutler/freeframe/stargazers)
 - **Primary Stack**: TypeScript, Next.js, Python (FastAPI), FFmpeg
 - **Highlights**: Open-source self-hosted alternative to Frame.io designed for video review, timecoded annotations, and collaborative multimedia post-production asset pipelines.
 - **Best For**: Video editing studios, post-production teams, and freelance videographers wanting self-hosted review workflows.
 
-### 15. [AWS VAMS](https://github.com/awslabs/visual-asset-management-system) [![GitHub stars](https://img.shields.io/github/stars/awslabs/visual-asset-management-system?style=social&color=white)](https://github.com/awslabs/visual-asset-management-system/stargazers)
+### 15. [AWS VAMS](https://github.com/awslabs/visual-asset-management-system) [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/visual-asset-management-system?style=social&color=white)](https://github.com/awslabs/visual-asset-management-system/stargazers)
 - **Primary Stack**: Python, AWS CDK, TypeScript, OpenSearch
 - **Highlights**: Visual Asset Management System (VAMS) from AWS Labs. Purpose-built cloud-native architecture for managing, converting, and distributing 2D, 3D, and spatial visual assets used in spatial computing and physical AI.
 - **Best For**: Cloud architects, spatial computing creators, and enterprise teams deploying scalable DAM on AWS infrastructure.
 
-### 16. [AtroDAM](https://github.com/atrocore/atrodam) [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)
+### 16. [AtroDAM](https://github.com/atrocore/atrodam) [![GitHub_Stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)
 - **Primary Stack**: PHP (AtroCore), Backbone.js, MariaDB
 - **Highlights**: Service-oriented, open-source DAM built on the AtroCore framework. Features customizable data modeling, RESTful API endpoints, automated asset transformations, and fine-grained role-based permission controls.
 - **Best For**: Enterprise organizations requiring bespoke data schemas and automated multi-channel asset publishing.
 
-### 17. [ResourceSpace](https://github.com/resourcespace/resourcespace) [![GitHub stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)
+### 17. [ResourceSpace](https://github.com/resourcespace/resourcespace) [![GitHub_Stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)
 - **Primary Stack**: PHP, MariaDB, FFmpeg, ImageMagick, ExifTool
 - **Highlights**: Highly established, battle-tested open-source DAM used widely across cultural institutions and non-profits. Features automated transcoding, extensive metadata schema configuration, batch ingestion, and enterprise audit trails.
 - **Best For**: Non-profit organizations, museums, and educational institutions looking for a mature LAMP-stack DAM.
 
-### 18. [Starsky](https://github.com/qdraw/starsky) [![GitHub stars](https://img.shields.io/github/stars/qdraw/starsky?style=social&color=white)](https://github.com/qdraw/starsky/stargazers)
+### 18. [Starsky](https://github.com/qdraw/starsky) [![GitHub_Stars](https://img.shields.io/github/stars/qdraw/starsky?style=social&color=white)](https://github.com/qdraw/starsky/stargazers)
 - **Primary Stack**: C# (.NET Core), TypeScript (React), Docker
 - **Highlights**: Photo management engine and search accelerator driven by EXIF metadata. Enables users to organize and search personal image libraries stored on private servers.
 - **Best For**: Developers seeking a lightweight .NET-based photo cataloging service.
 
-### 19. [Longpoint](https://github.com/longpoint-io/longpoint) [![GitHub stars](https://img.shields.io/github/stars/longpoint-io/longpoint?style=social&color=white)](https://github.com/longpoint-io/longpoint/stargazers)
+### 19. [Longpoint](https://github.com/longpoint-io/longpoint) [![GitHub_Stars](https://img.shields.io/github/stars/longpoint-io/longpoint?style=social&color=white)](https://github.com/longpoint-io/longpoint/stargazers)
 - **Primary Stack**: TypeScript, Node.js, AI Model Connectors
 - **Highlights**: Modern, extensible AI-native digital asset management framework. Built for semantic search using natural language embeddings, automated classification, and modular cloud storage backends.
 - **Best For**: Engineering teams building next-generation AI-assisted media catalog applications.
 
-### 20. [ShutterSea](https://github.com/saleel/shuttersea) [![GitHub stars](https://img.shields.io/github/stars/saleel/shuttersea?style=social&color=white)](https://github.com/saleel/shuttersea/stargazers)
+### 20. [ShutterSea](https://github.com/saleel/shuttersea) [![GitHub_Stars](https://img.shields.io/github/stars/saleel/shuttersea?style=social&color=white)](https://github.com/saleel/shuttersea/stargazers)
 - **Primary Stack**: JavaScript, IPFS, Textile ThreadDB, Ceramic IDX
 - **Highlights**: Experimental decentralized stock photography platform where photographers share imagery without intermediary control. Assets are pinned to IPFS with cryptographic identity verification.
 - **Best For**: Web3 developers exploring decentralized file distribution and censorship-resistant media sharing.
